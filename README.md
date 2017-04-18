@@ -9,13 +9,13 @@ npm start
 ```
 
 # Requirements
-Nodejs
-Pusher account https://pusher.com/
+- Nodejs
+- Pusher account https://pusher.com/
 
 # Supports
-MacOS
-Windows
-Linux
+- MacOS
+- Windows
+- Linux
 
 # TODO
 1. Ability to copy binaries, images, documents, file etc.. :D
