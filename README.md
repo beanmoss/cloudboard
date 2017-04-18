@@ -22,3 +22,6 @@ npm start
 # TODO
 1. Ability to copy binaries, images, documents, file etc.. :D
 2. Mobile integration.
+
+# Use case
+Ahm, wait.. Ahh let's see, ahhh, ohhh..
