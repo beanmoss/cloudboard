@@ -1,0 +1,16 @@
+{
+  "name": "cloudboard",
+  "version": "0.0.1",
+  "description": "Cloud copy/paste.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "rob",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^1.1.0",
+    "pusher": "^1.5.1",
+    "pusher-js": "^4.0.0"
+  }
+}
