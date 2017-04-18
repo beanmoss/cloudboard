@@ -4,7 +4,7 @@ var Pusher = require('pusher');
 
 var PusherClient = require('pusher-js/node');
 
-// TODO: Changes this values from https://pusher.com/
+// TODO: Change these values from https://pusher.com/
 // I might delete the app that uses these creds.
 var pusherSettings = {
   appId: '328790',
